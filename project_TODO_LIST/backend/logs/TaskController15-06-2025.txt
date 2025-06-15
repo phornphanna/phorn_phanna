@@ -1,0 +1,267 @@
+[15/06/2025 00:20:25] Error: Failed to update task
+[15/06/2025 00:24:32] Error: Failed to create task
+[15/06/2025 00:28:01] Error: Failed to create task
+[15/06/2025 00:28:05] Error: Failed to create task
+[15/06/2025 00:28:07] Error: Failed to create task
+[15/06/2025 00:28:36] Error: Failed to create task
+[15/06/2025 00:28:42] Error: Failed to create task
+[15/06/2025 00:30:24] Error: Failed to update task
+[15/06/2025 00:35:46] Error: Failed to update task
+[15/06/2025 00:36:30] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 00:40:00] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 00:40:05] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 00:41:04] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 00:41:14] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 00:42:43] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 01:24:07] Cannot set headers after they are sent to the client
+[15/06/2025 12:54:23] Cannot set headers after they are sent to the client
+[15/06/2025 12:54:26] Cannot set headers after they are sent to the client
+[15/06/2025 12:54:46] Cannot set headers after they are sent to the client
+[15/06/2025 12:54:51] Cannot set headers after they are sent to the client
+[15/06/2025 12:54:59] Cannot set headers after they are sent to the client
+[15/06/2025 12:55:03] Cannot set headers after they are sent to the client
+[15/06/2025 12:55:05] Cannot set headers after they are sent to the client
+[15/06/2025 12:55:24] Cannot set headers after they are sent to the client
+[15/06/2025 12:55:27] Cannot set headers after they are sent to the client
+[15/06/2025 12:57:09] Cannot set headers after they are sent to the client
+[15/06/2025 12:57:49] Cannot set headers after they are sent to the client
+[15/06/2025 12:58:31] Cannot set headers after they are sent to the client
+[15/06/2025 12:59:22] Cannot set headers after they are sent to the client
+[15/06/2025 12:59:40] Cannot set headers after they are sent to the client
+[15/06/2025 13:00:02] Cannot set headers after they are sent to the client
+[15/06/2025 13:00:12] Cannot set headers after they are sent to the client
+[15/06/2025 13:00:17] Cannot set headers after they are sent to the client
+[15/06/2025 13:00:25] Cannot set headers after they are sent to the client
+[15/06/2025 13:02:49] Cannot set headers after they are sent to the client
+[15/06/2025 13:03:06] Cannot set headers after they are sent to the client
+[15/06/2025 13:03:08] Cannot set headers after they are sent to the client
+[15/06/2025 13:37:28] Error: Failed to update task
+[15/06/2025 13:41:12] Error: Failed to update task
+[15/06/2025 13:53:22] Error: Failed to update task
+[15/06/2025 13:57:06] Error: Failed to update task
+[15/06/2025 14:00:04] Error: Failed to update task
+[15/06/2025 14:07:04] Error: Failed to update task
+[15/06/2025 14:08:44] Error: Failed to update task
+[15/06/2025 14:09:18] Error: Failed to update task
+[15/06/2025 14:32:29] TypeError: Cannot read properties of undefined (reading 'validate')
+[15/06/2025 14:34:58] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 14:35:01] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[15/06/2025 14:42:08] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:37] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:37] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:37] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:37] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:37] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:37] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:38] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:39] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:40] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:41] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:42] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:43] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:42:47] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:44:54] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:45:54] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:45:56] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:46:06] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:46:08] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:46:09] ReferenceError: updateTaskStatusSchema is not defined
+[15/06/2025 14:46:52] Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client

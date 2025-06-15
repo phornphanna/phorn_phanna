@@ -1,0 +1,134 @@
+<template>
+    <div class=" container vh-100 d-flex justify-content-center align-items-center page-login">
+        <div class="col-12">
+            <div class="card bg-white  shadow-sm border-0 rounded-4 p-4">
+                <div class="row">
+
+                    <div class="col-6 d-none d-md-block h-auto">
+                        <div class="banner-login">
+                            <img src="/banner-login.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6 d-flex flex-column justify-content-center">
+                        <div class="text-center mb-4">
+                            <h3 class="fw-bold text-primary">Welcome Customer</h3>
+                            <p class="text-muted">Sign up to your account</p>
+                        </div>
+                        <form class="d-flex flex-column gap-3" @submit.prevent="onHandleRegister">
+
+
+                            <div class="form-floating mb-3 position-relative">
+                                <input type="text" class="form-control form-control-sm rounded-3" placeholder="Username"
+                                    :class="{ 'is-invalid': authStore.vueValidation.username.$error }" id="username"
+                                    v-model="authStore.frmSignup.username" autofocus />
+                                <label for="username" class="form-label">Username</label>
+                                <div class="invalid-feedback message-error"
+                                    v-if="authStore.vueValidation.username.$error">
+                                    {{ authStore.vueValidation.username.$errors[0]?.$message }}
+                                </div>
+                            </div>
+
+                            <div class="form-floating mb-3 position-relative">
+                                <input type="text" class="form-control rounded-3" placeholder="Email"
+                                    :class="{ 'is-invalid': authStore.vueValidation.email.$error }" id="email"
+                                    v-model="authStore.frmSignup.email" autofocus />
+                                <label for="email" class="form-label">Email</label>
+                                <div class="invalid-feedback message-error" v-if="authStore.vueValidation.email.$error">
+                                    {{ authStore.vueValidation.email.$errors[0]?.$message }}
+                                </div>
+                            </div>
+
+                            <div class="form-floating mb-4 position-relative">
+                                <input type="text" class="form-control rounded-3" id="password" placeholder="Password"
+                                    :class="{ 'is-invalid': authStore.vueValidation.password.$error }"
+                                    v-model="authStore.frmSignup.password" />
+                                <label for="password" class="form-label">Password</label>
+                                <div class="invalid-feedback message-error"
+                                    v-if="authStore.vueValidation.password.$error">
+                                    {{ authStore.vueValidation.password.$errors[0]?.$message }}
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center mb-4">
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" id="rememberMe" />
+                                    <label class="form-check-label text-muted" for="rememberMe">
+                                        Remember me
+                                    </label>
+                                </div>
+                                <a href="#" class="text-primary text-decoration-none">Forgot password?</a>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-lg w-100 rounded-3"
+                                :disabled="authStore.isLoading">
+                                <span v-if="!authStore.isLoading">Sign up</span>
+                                <span class="spinner-border spinner-border-sm" aria-hidden="true"
+                                    v-if="authStore.isLoading"></span>
+                                <span class="visually-hidden" role="status" v-if="authStore.isLoading">Loading...</span>
+                            </button>
+                        </form>
+                        <div class="text-center mt-3">
+                            <p class="text-muted">
+                                Do you have an account already?
+                                <span @click="router.push('/login')" class="text-primary text-decoration-none link">Sign
+                                    in</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</template>
+
+<script setup>
+import { useRouter } from 'vue-router';
+import { useAuthStore } from '@/stores/auth/authStore';
+import { useVuelidate } from '@vuelidate/core';
+import { required, email, minLength, helpers } from '@vuelidate/validators';
+import { computed, onMounted, nextTick } from 'vue';
+import Loader from '@/layouts/Loader.vue';
+import { toast } from "vue3-toastify";
+
+
+const authStore = useAuthStore();
+const router = useRouter();
+
+console.log(authStore.frmSignup);
+
+const rules = computed(() => ({
+    username: {
+        required: helpers.withMessage("សូមបញ្ចូលឈ្មោះ", required),
+    },
+    email: {
+        required: helpers.withMessage("សូមបញ្ចូលអុីមែល ឬលេខទូរស័ព្ទ", required),
+        email: helpers.withMessage("សូមបញ្ចូលអុីមែល ឬលេខទូរស័ព្ទ", email),
+    },
+    password: {
+        required: helpers.withMessage("សូមបញ្ចូលពាក្យសម្ងាត់", required),
+        minLength: helpers.withMessage("ពាក្យសម្ងាត់យ៉ាងតិចណាស់មាន8តួ", minLength(6)),
+    }
+}));
+authStore.vueValidation = useVuelidate(rules, authStore.frmSignup);
+
+const onHandleRegister = async () => {
+
+    const isValid = await authStore.vueValidation.$validate();
+
+    if (!isValid) {
+        return;
+    }
+    try {
+        await authStore.onRegister();
+        toast.success('Create Account successful!');
+        setTimeout(() => {
+            router.push('/login');
+        }, 1000);
+    } catch (error) {
+        toast.error('Email already exists!');
+    }
+
+}
+</script>
